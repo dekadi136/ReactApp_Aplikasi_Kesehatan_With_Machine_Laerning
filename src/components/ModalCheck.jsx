@@ -391,9 +391,7 @@ export default function ModalCheck({
                     step="0.01"
                     className="w-full pl-12 pr-4 py-4 border-2 border-slate-200 rounded-xl focus:border-blue-500 focus:ring-4 focus:ring-blue-50 outline-none transition-all"
                   />
-                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium">
-                    m
-                  </span>
+                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium"></span>
                 </div>
 
                 <div className="relative">
@@ -410,9 +408,7 @@ export default function ModalCheck({
                     step="0.1"
                     className="w-full pl-12 pr-4 py-4 border-2 border-slate-200 rounded-xl focus:border-blue-500 focus:ring-4 focus:ring-blue-50 outline-none transition-all"
                   />
-                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium">
-                    kg
-                  </span>
+                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium"></span>
                 </div>
 
                 <div className="relative">
@@ -428,9 +424,7 @@ export default function ModalCheck({
                     placeholder="Umur"
                     className="w-full pl-12 pr-4 py-4 border-2 border-slate-200 rounded-xl focus:border-blue-500 focus:ring-4 focus:ring-blue-50 outline-none transition-all"
                   />
-                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium">
-                    tahun
-                  </span>
+                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium"></span>
                 </div>
 
                 <button
