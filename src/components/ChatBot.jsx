@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { MessageCircle, X, Send, Bot, User } from "lucide-react";
 
 // Ganti dengan URL API chatbot Anda
-const CHATBOT_API_URL = "http://127.0.0.1:8000/chat"; // atau URL deployment Anda
+const CHATBOT_API_URL = "https://dekadi136-chatbot-fastapi.hf.space/chat"; // atau URL deployment Anda
 
 const sendMessageToChatbot = async (message) => {
   try {
